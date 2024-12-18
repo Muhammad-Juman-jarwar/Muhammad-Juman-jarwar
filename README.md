@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img aligh="center" justify-content="center" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-juman-jarwar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-juman-jarwar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammad-juman-jarwar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-juman-jarwar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-juman-jarwar" alt="muhammad-juman-jarwar" /></a> </p>
 
