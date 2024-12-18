@@ -1,7 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Muhammad Juman</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
-<div style="display: flex; align-items: center; justify-content: center"><img aligh="center" justify-content="center" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></div>
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;"><img aligh="center" justify-content="center" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-juman-jarwar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-juman-jarwar" /> </p>
 
